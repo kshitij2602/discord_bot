@@ -12,3 +12,4 @@ import types
 
 || Requirements||
 python3.9 or higher
+GraphQl
